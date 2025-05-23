@@ -1,3 +1,6 @@
+// Re-export database types
+export * from './database'
+
 // Game enums
 export enum CropType {
   WHEAT = 'wheat',
